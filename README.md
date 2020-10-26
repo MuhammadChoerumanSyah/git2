@@ -120,7 +120,7 @@ https://github.com/MuhammadChoerumanSyah/git2.git
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote. <br>
 
 
-![data yang telah di input](sstutorial/hasilR.png)
+![data yang telah di input](sstutorial/hasilRR.png)
 
 
 
