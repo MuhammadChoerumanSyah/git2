@@ -24,15 +24,15 @@
 `git --version` <br>
 
 
-![git --version](sstutotorial/version,png)
+![git --version](sstutorial/version.png)
 
 
 * jika muncul tampilan git version,berarti Git sudah berhasil di install dan bisa di gunakan Langkah pertama kita harus mengkonfirmasikan user name dan email di git, dengan mengetikkan syntax berikut : <br>
 `git commit --global user.name "masukkan nama anda"` <br>
 
+`git commit --global user.email "masukkan email anda"` <br>
 
-
-
+![git config --global user.name/email](sstutorial/user.png)
 
 
 
